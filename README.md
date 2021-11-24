@@ -13,21 +13,20 @@ You can click the Preview link to take a look at your changes.
                  AVISO: Para editar/visualizar este arquivo .md troque o "Soft wrap" pelo "No wrap"          ^^^^^^^^^^^^^
 -->
 
+## 🏛 Acadêmico
+| Órgão emissor          | Certificação                                                      | Data                       |
+| ---------------------- | ----------------------------------------------------------------- | -------------------------- |
+| ![][sUN] UFPA        | **Mestrado em Ciência da Computação**                  [⮚][37]   | 2017-2019 (EM)             |
+| ![][sUN] UFPA        | **Bacharelado em Ciência da Computação**               [⮚][36]   | 16/12/2019                 |
+| ![][sIJ] EEEM Presidente Castelo Branco   | **Conclusão do Ensino Médio**                          [⮚][29]   | 24/10/2019 <br> 25/10/2019 |
+
+
 # Certificações
 Todas minhas certificações de cursos (+EaDs e Eventos);  
 Clique nas setas (**⮚**) para conferir o certificado/comprovante;  
 As bandeiras ![][iUS] representam cursos no idioma Inglês.
 
-## 🏛 Acadêmico / Científico
-| Órgão emissor          | Certificação                                                      | Data                       |
-| ---------------------- | ----------------------------------------------------------------- | -------------------------- |
-| ![][sUN] UNIVAP        | **Aluno Destaque do Curso de Informática**              [⮚][37]   | 2017-2019 (EM)             |
-| ![][sUN] UNIVAP        | **Conclusão do Ensino Médio**                           [⮚][36]   | 16/12/2019                 |
-| ![][sIJ] INICJr        | **Certificado de Participação do Congresso**            [⮚][29]   | 24/10/2019 <br> 25/10/2019 |
-| ![][sIJ] INICJr        | **Codificador de Estruturas Moleculares**               [⮚][31]   | 25/10/2019                 |
-| ![][sIJ] INICJr        | **Aplicação para Correção Automática de Gabaritos**     [⮚][30]   | 24/10/2019                 |
-| ![][sIJ] INIC          | **Neurociência Cognitiva: Hipnose e Sugestionabilidade**[⮚][52]   | 21/10/2020                 |
-| ![][sDG] Duolingo      | **Duolingo Educator Training Program** ![][iUS]         [⮚][32]   | 01/06/2016                 |
+
 
 ## 🎓 Cursos 
 • `Avaliação Pessoal`: ***minha** opinião sobre o curso ou palestra*;   
@@ -41,71 +40,24 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 | ![][sTW] TreinaWeb | ![][i40] **Git e GitHub - Controle de versão**           [⮚][40] | 22 Horas           | ![][nota10]       |
 | ![][sTW] TreinaWeb | ![][i08] **HTML5 e CSS3 - Web Básico**                   [⮚][8]  | 34 Horas           | ![][nota8]        |
 | ![][sTW] TreinaWeb | ![][i09] **HTML5 e CSS3 - Web Avançado**                 [⮚][9]  | 34 Horas           | ![][nota8]        |
-| ![][sSL] SoloLearn | ![][i10] **JavaScript** ![][iUS]                         [⮚][10] | *indefinido*       | ![][nota5]        |
-| ![][sTW] TreinaWeb | ![][i11] **JavaScript Básico**                           [⮚][11] | 34 Horas           | ![][nota7]        |
-| ![][sTW] TreinaWeb | ![][i12] **JavaScript Intermediário**                    [⮚][12] | 22 Horas           | ![][nota10]       |
-| ![][sTW] TreinaWeb | ![][i19] **JavaScript Avançado**                         [⮚][19] | 16 Horas           | ![][nota9]        |
-| ![][sSL] SoloLearn | ![][i13] **Java** ![][iUS]                               [⮚][13] | *indefinido*       | ![][nota5]        |
-| ![][sCV] CEV       | ![][i14] **Java**                                        [⮚][14] | 40 Horas / Aula    | ![][nota9]        |
-| ![][sTW] TreinaWeb | ![][i15] **Java 10 - Orientação a Objetos**              [⮚][15] | 22 Horas           | ![][nota10]       |
-| ![][sSL] SoloLearn | ![][i20] **Python 3** ![][iUS]                           [⮚][20] | *indefinido*       | ![][nota8]        |
-| ![][sMS] MVA       | ![][i16] **Office 365**                                  [⮚][16] | 1 Hora             | ![][nota5]        |
-| ![][sCD] C O D E   | ![][i17] **Basic Concepts of Computer Science** ![][iUS] [⮚][17] | 1 Hora             | ![][nota2]        |
-| ![][sTW] TreinaWeb | ![][i18] **RegEx - Expressões Regulares**                [⮚][18] | 16 Horas           | ![][nota7]        |
-| ![][sTW] TreinaWeb | ![][i38] **NPM - Gerenciador de Pacotes**                [⮚][38] | 8 Horas            | ![][nota8]        |
-| ![][sTW] TreinaWeb | ![][i39] **UI/UX - Introdução**                          [⮚][39] | 10 Horas           | ![][nota8]        |
-| ![][sTW] TreinaWeb | ![][i41] **CSS - Sass**                                  [⮚][41] | 6 Horas            | ![][nota10]       |
+
 
 ### 🤖 Eletrônica
 | Órgão emissor           | Curso                                                        | Carga horária | Avaliação Pessoal |
 | ----------------------- | ------------------------------------------------------------ | ------------- | ----------------- |
 | ![][sLU] Lúmina (UFRGS) | ![][i28] **Introdução a Arduino**                   [⮚][28]  | 20 Horas      | ![][nota10]       |
 
-### 🧬 Biomedicina
-| Órgão emissor                                | Curso                                                                                   | Carga horária      | Avaliação Pessoal |
-| -------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------ | ----------------- |
-| ![][sPM] Postgraduate Institute for Medicine | ![][i33] **SBV – Suporte Básico de Vida - CETS** ![][iUS] [Card][33c][⮚][33]            | *indefinido*       | ![][nota9]        |
-| ![][sIJ] INIC 2020                           | ![][i50] **Técnica de Caracterização** - Microscopia Eletrônica de Varredura [⮚][50]    | 2 Horas            | ![][nota8]        |
-| ![][sUE] UNIEURO 2020                        | ![][i45] II Mostra Científica UNIEURO 2020 [⮚][45]                                      | 16 Horas           | ![][nota9]        |
-| ![][sAB] Academia Brasileira de Neurocirurgia| ![][i44] I Simpósio Neuroclínico e Neurocirúrgico do AVE [⮚][44]                        | 12 Horas           | ![][nota9]        |
-| ![][sGV] Conselho Regional de Biomedicina    | ![][i43] **O Biomédico como Neurocientista** - Transplante de células-troncos neurais para regenerar a medula espinhal após trauma [⮚][43]                                                                                                                                            | 2 Horas            | ![][nota10]        |
-| ![][sUN] LANF (UNIVAP)                       | ![][i47] **Liga Acadêmica Neurofuncional**<br> - AVE: Revisão da fisiopatologia [⮚][46]<br> - AVE: Tratamento Fisioterapêutico [⮚][47]<br> - AVE: Sequelas [⮚][48]<br> - Manejo Clínico e Fisioterapêutico da Espasticidade [⮚][49]                      | 2 Horas<br>2 Horas<br>2 Horas<br>3 Horas      | ![][nota10]        |
 
----
-## 🥇 Participações em Competições e Maratonas
-Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas]  
-
-| Organização     | Evento                                 | Certificação (ou Comprovantes)                        | Ano  | Colocação |
-| --------------- | -------------------------------------- | ----------------------------------------------------- | ---- | --------- |
-| ![][sUN] UNIVAP | **Olimpíada de Programação (OPC X)**   | [OPC X - 2017][m1] [[backup][m2]]             +⠀🥉    | 2017 | 5º Lugar  |
-| ![][sUN] UNIVAP | **Olimpíada de Programação (OPC XI)**  | [Certificado][m3]                             +⠀🥈⠀   | 2018 | 2º Lugar  |
-| ![][sUN] UNIVAP | **Olimpíada de Programação (OPC XII)** | [Certificado][m7]                             +⠀🥇🏆   | 2019 | 1º Lugar  |
-| ![][sFE] FEAU   | **Maratona VI Jr.**                    | [Certificado][m4]                             +⠀🥈⠀   | 2017 | 2º Lugar  |
-| ![][sFE] FEAU   | **Maratona VII Jr.**                   | [Ranking - 2018][m5]                                  | 2018 | 10º Lugar |
-| ![][sFE] FEAU   | **Maratona VIII Jr.**                  | [Certificado][m6]                             +⠀🥇⠀   | 2019 | 1º Lugar  |
 
 ---
 ## 💬 Palestras
   | Organização         | Conteúdo                                                                 | Carga horária | Avaliação Pessoal |
   | ------------------- | ------------------------------------------------------------------------ | ------------- | ----------------- |
   | ![][sJG] JugVale    | ![][i02] **Java** - 13º Encontro                                 [⮚][2]  | 8 Horas       | ![][nota9]        |
-  | ![][sJG] JugVale    | ![][i27] **Java** - 14º Encontro                                 [⮚][27] | 8 Horas       | ![][nota10]       |
-  | ![][sFE] FEAU       | ![][i21] **SEAU** - Aprovação de Projetos em SJC                 [⮚][21] | 2 Horas       | ![][nota8]        |
-  | ![][sFE] FEAU       | ![][i22] **SEAU** - Usinagem Aeroespacial                        [⮚][22] | 2 Horas       | ![][nota6]        |
-  | ![][sFE] FEAU       | ![][i23] **SEAU** - Segurança da Informação                      [⮚][23] | 2 Horas       | ![][nota10]       |
-  | ![][sFE] FEAU       | ![][i34] **SEAU** - Interface Física Médica e Medicina Nuclear   [⮚][34] | 2 Horas       | ![][nota9]        |
-  | ![][sRS] Rocketseat | ![][i51] **Do While 2020**                                       [⮚][51] | 16 Horas      | ![][nota9]        |
 
----
-## 📜 Academias e Oficinas
-  | Organização         | Conteúdo                  | Carga horária | Avaliação Pessoal |
-  | ------------------- | ------------------------- | ------------- | ----------------- |
-  | ![][sSG] Saga       | **Modelagem 3D**  [⮚][3]  | 8 Horas       | ![][nota5]        |
-  | ![][sSB] Softblue   | **JAVA**          [⮚][4]  | 12 Horas      | ![][nota9]        |
-  | ![][sSB] Softblue   | **PHP**           [⮚][5]  | 12 horas      | ![][nota10]       |
    
 ---
-## 🎲 Outros
+## 🎲 Eventos
 | Organização     | Nome                                                       | Descrição                                                                | Ano  |
 | --------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------| ---- |
 | ![][sNS] NASA   | **Hot Ticket**: ![][iUS] [⮚][24]                           | Apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)  | 2018 |
